@@ -59,8 +59,8 @@ alphasieve/
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/alphasieve.git
-cd alphasieve
+git clone https://github.com/<yogeshsikhwal77>/AlphaSieve.git
+cd AlphaSieve
 
 # Install dependencies
 pip install -r requirements.txt
@@ -104,4 +104,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋 Contact
 
-Built by **[Your Name]** — feel free to reach out or open an issue for suggestions.
+Built by **[Yogesh Sikhwal]** — feel free to reach out or open an issue for suggestions.
