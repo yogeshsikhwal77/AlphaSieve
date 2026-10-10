@@ -1,0 +1,5 @@
+# Time-saving tip: Cover all common virtual environment naming conventions
+.venv/
+venv/
+ENV/
+env/
